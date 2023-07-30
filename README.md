@@ -1,0 +1,1 @@
+Project about creating a web page, mimicking a given design
